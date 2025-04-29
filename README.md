@@ -37,7 +37,7 @@
 
 Feel free to connect or collaborate on exciting AI/ML or web projects!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/balamurugan-s-1915b5322)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balamurugan-s)
 
 
 ---
