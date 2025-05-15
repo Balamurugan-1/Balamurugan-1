@@ -20,8 +20,8 @@
 ## 🔬 Areas of Interest
 
 - 🤖 Artificial Intelligence
-- 📈 Machine Learning
-- 🌐 Web Development (with a strong edge)
+- 📈 Machine Learning (with a strong edge)
+- 🌐 Web Development 
 
 ---
 
